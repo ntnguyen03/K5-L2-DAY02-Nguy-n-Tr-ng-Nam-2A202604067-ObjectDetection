@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
+- Họ tên:Nguyễn Trường Nam
+- MSSV:2A202604067
+- Email:truongnam0304@gmail.com
 - Lớp:
-- Link repo bài làm:
+- Link repo bài làm: https://github.com/ntnguyen03/K5-L2-DAY02-Nguy-n-Tr-ng-Nam-2A202604067-ObjectDetection.git
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
